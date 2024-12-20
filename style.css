@@ -106,7 +106,7 @@ body {
 
 @keyframes cardmoves {
     0% {
-        top: -30%;
+        top: -60%;
         display: flex;
     }
     100% {
