@@ -88,16 +88,15 @@
 }
 
 .card-container {
-    width: 80%;
-    height: 100%;
+    width: 85%;
+    height: 90%;
     /* background-color: rgba(255, 255, 255, 0.6); */
     z-index: 100;
-    position: relative;
-    top: 80%;
+    position: absolute;
+    top: 90%;
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 25px;
-    box-shadow: 10px 10px 10px rgba(76, 76, 76, 0.5);
 }
 
 .card {
